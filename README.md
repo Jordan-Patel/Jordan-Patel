@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Patel</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
 
-- 🌱 I’m currently learning **Javascript frameworks (right now focusing on React**
+- 🌱 I’m currently learning **Javascript frameworks (right now focusing on React)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
